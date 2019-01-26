@@ -18,4 +18,4 @@ to install:
 
 If your JAGS is properly installed in the default configuration, this should install `batchelder.so` and `batchelder.la` to your JAGS modules directory. On my system, this is `/usr/local/lib/x86_64-linux-gnu/JAGS/modules-4`.
 
-If this works properly, you may then load the module, and access the Batchelder function using the JAGS code `theta = Batchelder(a, b, r, v, t, L1, L2)`.
+If this works properly, you may then load the module in JAGS, and access the Batchelder function using the JAGS code `theta = Batchelder(a, b, r, v, t, L1, L2)`.
