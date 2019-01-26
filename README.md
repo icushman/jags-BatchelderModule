@@ -1,0 +1,5 @@
+# JAGS batchelder module
+
+This module is not documented, and has not been fully reviewed. Not for distribution or use outside UCI MADLab.
+
+contact icushman@uci.edu for details.
